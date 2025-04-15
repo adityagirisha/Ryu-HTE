@@ -1,5 +1,5 @@
 ryu==4.34
-ovs==3.5.0
+ovs==3.5.0pyenv install
 certifi==2025.1.31
 charset-normalizer==3.4.1
 debtcollector==3.0.0
